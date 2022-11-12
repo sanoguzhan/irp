@@ -1,0 +1,650 @@
+7837696 K total memory
+1948800 K used memory
+201792 K active memory
+1970132 K inactive memory
+5520168 K free memory
+20168 K buffer memory
+348560 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+377828 non-nice user cpu ticks
+698 nice user cpu ticks
+47394 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+202 stolen cpu ticks
+1758784 pages paged in
+2113925 pages paged out
+0 pages swapped in
+0 pages swapped out
+1417379 interrupts
+507690 CPU context switches
+1668269575 boot time
+5241 forks
+7837696 K total memory
+4389152 K used memory
+201800 K active memory
+4421236 K inactive memory
+3079804 K free memory
+20176 K buffer memory
+348564 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+378703 non-nice user cpu ticks
+698 nice user cpu ticks
+47523 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+202 stolen cpu ticks
+1758784 pages paged in
+2114093 pages paged out
+0 pages swapped in
+0 pages swapped out
+1419946 interrupts
+507926 CPU context switches
+1668269575 boot time
+5243 forks
+7837696 K total memory
+4389904 K used memory
+201812 K active memory
+4421220 K inactive memory
+3079048 K free memory
+20184 K buffer memory
+348560 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+379707 non-nice user cpu ticks
+698 nice user cpu ticks
+47524 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+202 stolen cpu ticks
+1758784 pages paged in
+2114121 pages paged out
+0 pages swapped in
+0 pages swapped out
+1422505 interrupts
+508157 CPU context switches
+1668269575 boot time
+5246 forks
+7837696 K total memory
+4389896 K used memory
+201820 K active memory
+4421200 K inactive memory
+3079048 K free memory
+20184 K buffer memory
+348568 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+380710 non-nice user cpu ticks
+698 nice user cpu ticks
+47524 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+202 stolen cpu ticks
+1758784 pages paged in
+2114165 pages paged out
+0 pages swapped in
+0 pages swapped out
+1425052 interrupts
+508316 CPU context switches
+1668269575 boot time
+5248 forks
+7837696 K total memory
+4390140 K used memory
+201828 K active memory
+4421180 K inactive memory
+3078796 K free memory
+20192 K buffer memory
+348568 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+381714 non-nice user cpu ticks
+698 nice user cpu ticks
+47524 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+202 stolen cpu ticks
+1758784 pages paged in
+2114177 pages paged out
+0 pages swapped in
+0 pages swapped out
+1427592 interrupts
+508478 CPU context switches
+1668269575 boot time
+5250 forks
+7837696 K total memory
+3250396 K used memory
+201832 K active memory
+3259148 K inactive memory
+4218532 K free memory
+20200 K buffer memory
+348568 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+382214 non-nice user cpu ticks
+698 nice user cpu ticks
+48028 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+203 stolen cpu ticks
+1758784 pages paged in
+2114193 pages paged out
+0 pages swapped in
+0 pages swapped out
+1430141 interrupts
+508668 CPU context switches
+1668269575 boot time
+5252 forks
+7837696 K total memory
+1451512 K used memory
+201844 K active memory
+1460044 K inactive memory
+6017404 K free memory
+20208 K buffer memory
+348572 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+383046 non-nice user cpu ticks
+698 nice user cpu ticks
+48200 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+203 stolen cpu ticks
+1758784 pages paged in
+2114205 pages paged out
+0 pages swapped in
+0 pages swapped out
+1432680 interrupts
+508864 CPU context switches
+1668269575 boot time
+5254 forks
+7837696 K total memory
+3016676 K used memory
+201852 K active memory
+3025412 K inactive memory
+4452232 K free memory
+20216 K buffer memory
+348572 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+383967 non-nice user cpu ticks
+698 nice user cpu ticks
+48283 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+203 stolen cpu ticks
+1758784 pages paged in
+2114225 pages paged out
+0 pages swapped in
+0 pages swapped out
+1435225 interrupts
+509044 CPU context switches
+1668269575 boot time
+5256 forks
+7837696 K total memory
+4401652 K used memory
+201860 K active memory
+4421188 K inactive memory
+3067248 K free memory
+20224 K buffer memory
+348572 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+384905 non-nice user cpu ticks
+698 nice user cpu ticks
+48349 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+203 stolen cpu ticks
+1758784 pages paged in
+2114245 pages paged out
+0 pages swapped in
+0 pages swapped out
+1437770 interrupts
+509218 CPU context switches
+1668269575 boot time
+5258 forks
+7837696 K total memory
+4402148 K used memory
+201868 K active memory
+4421120 K inactive memory
+3066744 K free memory
+20232 K buffer memory
+348572 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+385908 non-nice user cpu ticks
+698 nice user cpu ticks
+48349 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+204 stolen cpu ticks
+1758784 pages paged in
+2114269 pages paged out
+0 pages swapped in
+0 pages swapped out
+1440313 interrupts
+509385 CPU context switches
+1668269575 boot time
+5260 forks
+7837696 K total memory
+2569232 K used memory
+201876 K active memory
+2579720 K inactive memory
+4899652 K free memory
+20240 K buffer memory
+348572 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+386899 non-nice user cpu ticks
+698 nice user cpu ticks
+48363 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+204 stolen cpu ticks
+1758784 pages paged in
+2114281 pages paged out
+0 pages swapped in
+0 pages swapped out
+1442856 interrupts
+509559 CPU context switches
+1668269575 boot time
+5262 forks
+7837696 K total memory
+4416184 K used memory
+201884 K active memory
+4421300 K inactive memory
+3052688 K free memory
+20248 K buffer memory
+348576 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+387476 non-nice user cpu ticks
+698 nice user cpu ticks
+48790 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+204 stolen cpu ticks
+1758784 pages paged in
+2114301 pages paged out
+0 pages swapped in
+0 pages swapped out
+1445399 interrupts
+509739 CPU context switches
+1668269575 boot time
+5264 forks
+7837696 K total memory
+4416176 K used memory
+201888 K active memory
+4421312 K inactive memory
+3052688 K free memory
+20256 K buffer memory
+348576 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+388480 non-nice user cpu ticks
+698 nice user cpu ticks
+48790 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+204 stolen cpu ticks
+1758784 pages paged in
+2114321 pages paged out
+0 pages swapped in
+0 pages swapped out
+1447942 interrupts
+509904 CPU context switches
+1668269575 boot time
+5266 forks
+7837696 K total memory
+2839820 K used memory
+202368 K active memory
+2855960 K inactive memory
+4629020 K free memory
+20272 K buffer memory
+348584 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+389443 non-nice user cpu ticks
+698 nice user cpu ticks
+48832 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+205 stolen cpu ticks
+1758784 pages paged in
+2114369 pages paged out
+0 pages swapped in
+0 pages swapped out
+1450514 interrupts
+510256 CPU context switches
+1668269575 boot time
+5269 forks
+7837696 K total memory
+4400328 K used memory
+202376 K active memory
+4418640 K inactive memory
+3068504 K free memory
+20280 K buffer memory
+348584 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+390251 non-nice user cpu ticks
+698 nice user cpu ticks
+49029 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+205 stolen cpu ticks
+1758784 pages paged in
+2114569 pages paged out
+0 pages swapped in
+0 pages swapped out
+1453118 interrupts
+510585 CPU context switches
+1668269575 boot time
+5272 forks
+7837696 K total memory
+2859728 K used memory
+202376 K active memory
+2877904 K inactive memory
+4609096 K free memory
+20288 K buffer memory
+348584 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+391213 non-nice user cpu ticks
+698 nice user cpu ticks
+49071 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+205 stolen cpu ticks
+1758784 pages paged in
+2114601 pages paged out
+0 pages swapped in
+0 pages swapped out
+1455663 interrupts
+510766 CPU context switches
+1668269575 boot time
+5274 forks
+7837696 K total memory
+4428448 K used memory
+202384 K active memory
+4418752 K inactive memory
+3040376 K free memory
+20288 K buffer memory
+348584 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+392068 non-nice user cpu ticks
+698 nice user cpu ticks
+49220 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+205 stolen cpu ticks
+1758784 pages paged in
+2114613 pages paged out
+0 pages swapped in
+0 pages swapped out
+1458204 interrupts
+510928 CPU context switches
+1668269575 boot time
+5276 forks
+7837696 K total memory
+1583432 K used memory
+202392 K active memory
+1587772 K inactive memory
+5885380 K free memory
+20296 K buffer memory
+348588 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+392674 non-nice user cpu ticks
+698 nice user cpu ticks
+49618 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+206 stolen cpu ticks
+1758784 pages paged in
+2114625 pages paged out
+0 pages swapped in
+0 pages swapped out
+1460751 interrupts
+511123 CPU context switches
+1668269575 boot time
+5278 forks
+7837696 K total memory
+4414640 K used memory
+202400 K active memory
+4418780 K inactive memory
+3054164 K free memory
+20304 K buffer memory
+348588 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+393526 non-nice user cpu ticks
+698 nice user cpu ticks
+49770 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+206 stolen cpu ticks
+1758784 pages paged in
+2114645 pages paged out
+0 pages swapped in
+0 pages swapped out
+1463290 interrupts
+511285 CPU context switches
+1668269575 boot time
+5280 forks
+7837696 K total memory
+4363460 K used memory
+202408 K active memory
+4381580 K inactive memory
+3105336 K free memory
+20312 K buffer memory
+348588 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+394285 non-nice user cpu ticks
+698 nice user cpu ticks
+50014 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+206 stolen cpu ticks
+1758784 pages paged in
+2114665 pages paged out
+0 pages swapped in
+0 pages swapped out
+1465833 interrupts
+511461 CPU context switches
+1668269575 boot time
+5282 forks
+7837696 K total memory
+4926668 K used memory
+202416 K active memory
+4943104 K inactive memory
+2542120 K free memory
+20320 K buffer memory
+348588 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+395263 non-nice user cpu ticks
+698 nice user cpu ticks
+50041 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+206 stolen cpu ticks
+1758784 pages paged in
+2114689 pages paged out
+0 pages swapped in
+0 pages swapped out
+1468379 interrupts
+511612 CPU context switches
+1668269575 boot time
+5284 forks
+7837696 K total memory
+4927164 K used memory
+202424 K active memory
+4942944 K inactive memory
+2541616 K free memory
+20328 K buffer memory
+348588 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+396267 non-nice user cpu ticks
+698 nice user cpu ticks
+50041 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+207 stolen cpu ticks
+1758784 pages paged in
+2114701 pages paged out
+0 pages swapped in
+0 pages swapped out
+1470921 interrupts
+511772 CPU context switches
+1668269575 boot time
+5286 forks
+7837696 K total memory
+4925332 K used memory
+202436 K active memory
+4943032 K inactive memory
+2543432 K free memory
+20340 K buffer memory
+348592 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+397271 non-nice user cpu ticks
+698 nice user cpu ticks
+50041 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+207 stolen cpu ticks
+1758784 pages paged in
+2114721 pages paged out
+0 pages swapped in
+0 pages swapped out
+1473468 interrupts
+511925 CPU context switches
+1668269575 boot time
+5288 forks
+7837696 K total memory
+3308800 K used memory
+202444 K active memory
+3323128 K inactive memory
+4159956 K free memory
+20348 K buffer memory
+348592 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+398262 non-nice user cpu ticks
+698 nice user cpu ticks
+50054 system cpu ticks
+562187 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+207 stolen cpu ticks
+1758784 pages paged in
+2114749 pages paged out
+0 pages swapped in
+0 pages swapped out
+1476011 interrupts
+512084 CPU context switches
+1668269575 boot time
+5290 forks
+7837696 K total memory
+224480 K used memory
+202448 K active memory
+221736 K inactive memory
+7246432 K free memory
+20356 K buffer memory
+346428 K swap cache
+0 K total swap
+0 K used swap
+0 K free swap
+398665 non-nice user cpu ticks
+698 nice user cpu ticks
+50269 system cpu ticks
+562571 idle cpu ticks
+3968 IO-wait cpu ticks
+0 IRQ cpu ticks
+11 softirq cpu ticks
+207 stolen cpu ticks
+1758784 pages paged in
+2114781 pages paged out
+0 pages swapped in
+0 pages swapped out
+1477658 interrupts
+512302 CPU context switches
+1668269575 boot time
+5292 forks

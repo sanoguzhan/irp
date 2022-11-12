@@ -1,0 +1,5 @@
+stress-ng: info:  [404] dispatching hogs: 2 vm
+stress-ng: info:  [404] successful run completed in 120.63s (2 mins, 0.63 secs)
+stress-ng: info:  [404] stressor       bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [404]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [404] vm                    0    120.60    105.02     56.52         0.00         0.00

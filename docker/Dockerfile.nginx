@@ -1,0 +1,5 @@
+FROM ubuntu/nginx:1.18-20.04_beta
+RUN apt-get update -y
+RUN apt-get install stress-ng -y
+ARG APP_HOME=/app
+WORKDIR ${APP_HOME}
