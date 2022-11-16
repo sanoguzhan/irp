@@ -36,8 +36,8 @@ def transform_to_csv(files: List[Path]) -> None:
 
 
 if __name__ == "__main__":
-    apache_path = base_dir /  "experiments" / "vm" /"apache"
-    nginx_path = base_dir / "experiments" / "vm" /"nginx"
+    apache_path = base_dir /  "data" / "vm" /"apache"
+    nginx_path = base_dir / "data" / "vm" /"nginx"
     for folder in [apache_path, nginx_path]:
         files = get_file_list(folder)
         transform_to_csv(files)
