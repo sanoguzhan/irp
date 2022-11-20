@@ -6,7 +6,7 @@ services:
       dockerfile: docker/Dockerfile.nginx
       context: ..
     volumes:
-      - ../experiments/nginx:/app:z
+      - ../data/container/nginx:/app:z
     cpus: '2'
     mem_reservation: 8192M
     ports: 
@@ -18,7 +18,7 @@ services:
       dockerfile: docker/Dockerfile.apache
       context: ..
     volumes:
-      - ../experiments/apache:/app:z
+      - ../data/container/apache:/app:z
     cpus: '2'
     mem_reservation: 8192M
     ports: 
