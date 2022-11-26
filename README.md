@@ -48,8 +48,8 @@ sudo apt install apache2
 Apache Benchmark
 
 ```sh
-ab -n 5000 -c 1000 -g docker-nginx-n5000-c1000.txt -l -r -k http://localhost/
-ab -n 25000 -c 5000 -g docker-nginx-n25000-c5000.txt -l -r -k http://localhost/
-ab -n 50000 -c 10000 -g docker-nginx-n50000-c10000.txt -l -r -k http://localhost/
+ab -n 5000 -c 1000 -e docker-nginx-n5000-c1000.csv -l -r -k http://localhost/
+ab -n 25000 -c 5000 -e docker-nginx-n25000-c5000.csv -l -r -k http://localhost/
+ab -n 50000 -c 10000 -e docker-nginx-n50000-c10000.csv -l -r -k http://localhost/
 
 ```
