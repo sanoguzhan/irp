@@ -29,6 +29,3 @@ override.tf.json
 # example: *tfplan*
 .terraform.lock.hcl
 .DS_Store
-
-# how to remove all .DS_Store from git history
-# https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository
