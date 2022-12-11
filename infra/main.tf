@@ -4,7 +4,7 @@ variable "awsprops" {
     region = "eu-west-3"
     vpc = "vpc-08c91e4bf12660ea4"
     ami = "ami-064736ff8301af3ee"
-    itype = "m5.large"
+    itype = "m5.2xlarge"
     subnet = "subnet-0b15f628061e75da6"
     publicip = true
     key_name = "ec2db"

@@ -1,0 +1,9 @@
+sudo virt-install --name=debian-vm \
+--os-type=Linux \
+--os-variant=ubuntu20.04 \
+--vcpu=4 \
+--ram=8192 \
+--disk path=/var/lib/libvirt/images/ubuntu20.img,size=15 \
+--graphics spice \
+--location=/home/Downloads/ubuntu20-04.iso \
+--network bridge:virbr0
